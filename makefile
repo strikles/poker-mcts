@@ -6,6 +6,7 @@ INCLUDES=-isystem ./dep/decimal_for_cpp/include \
 		 -I ./dep/libmcts/include \
 		 -I ./dep/libecalc/include \
 		 -I ./dep/libpoker/include \
+		 -I ./dep/rapidjson/include \
 #		 -isystem ./usr/include/ \
 
 # add paths of libraries the
