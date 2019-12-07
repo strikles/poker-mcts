@@ -3,7 +3,7 @@
 	url = https://github.com/pandaant/libpoker
 [submodule "dep/libecalc"]
 	path = dep/libecalc
-	url = https://github.com/pandaant/libecalc
+	url = https://github.com/strikles/libecalc
 [submodule "dep/libmcts"]
 	path = dep/libmcts
 	url = https://github.com/pandaant/libmcts
