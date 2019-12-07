@@ -10,3 +10,6 @@
 [submodule "dep/rapidjson"]
 	path = dep/rapidjson
 	url = https://github.com/Tencent/rapidjson/
+[submodule "dep/libecalc"]
+	path = dep/libecalc
+	url = https://github.com/strikles/libecalc
